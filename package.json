@@ -1,0 +1,11 @@
+{
+  "name": "google-autheticator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "qrcode": "^1.4.4",
+    "speakeasy": "^2.0.0"
+  }
+}
